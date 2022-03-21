@@ -1,0 +1,15 @@
+[submodule "mss22-articles-app"]
+	path = mss22-articles-app
+	url = https://github.com/michivo/mss22-articles-app
+[submodule "mss22-producer-frontend"]
+	path = mss22-producer-frontend
+	url = https://github.com/michivo/mss22-producer-frontend
+[submodule "mss22-article-service"]
+	path = mss22-article-service
+	url = https://github.com/michivo/mss22-article-service
+[submodule "mss22-product-service"]
+	path = mss22-product-service
+	url = https://github.com/michivo/mss22-product-service
+[submodule "mss22-core-service"]
+	path = mss22-core-service
+	url = https://github.com/michivo/mss22-core-service
